@@ -1,0 +1,1556 @@
+Running bc/klee_bst_sym/test000001.ktest
+0 
+1 0 
+----------------------------
+Running bc/klee_bst_sym/test000002.ktest
+----------------------------
+Running bc/klee_bst_sym/test000003.ktest
+----------------------------
+Running bc/klee_bst_sym/test000004.ktest
+----------------------------
+Running bc/klee_bst_sym/test000005.ktest
+0 0 0 0 1 2 3 
+0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000006.ktest
+----------------------------
+Running bc/klee_bst_sym/test000007.ktest
+----------------------------
+Running bc/klee_bst_sym/test000008.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000009.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000010.ktest
+0 0 0 0 1 2 3 3 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000011.ktest
+0 0 0 0 0 0 2 3 3 
+0 0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000012.ktest
+0 0 0 0 0 0 0 2 3 3 
+0 0 0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000013.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000014.ktest
+0 0 1 3 3 4 
+2 38876432 
+----------------------------
+Running bc/klee_bst_sym/test000015.ktest
+----------------------------
+Running bc/klee_bst_sym/test000016.ktest
+0 1 2 3 3 3 
+1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000017.ktest
+0 0 0 2 3 3 16 
+0 0 3 3 16 
+----------------------------
+Running bc/klee_bst_sym/test000018.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000019.ktest
+0 0 0 2 3 3 3 
+0 0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000020.ktest
+0 0 0 1 3 3 4 
+2 31360272 
+----------------------------
+Running bc/klee_bst_sym/test000021.ktest
+0 0 0 0 2 3 3 16 
+0 0 0 3 3 16 
+----------------------------
+Running bc/klee_bst_sym/test000022.ktest
+0 0 2 3 3 4 
+0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000023.ktest
+0 0 0 0 2 3 3 3 
+0 0 0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000024.ktest
+0 1 1 16 17 
+1 1 16 17 
+----------------------------
+Running bc/klee_bst_sym/test000025.ktest
+0 0 0 0 1 2 3 3 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000026.ktest
+0 0 2 3 3 3 
+0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000027.ktest
+0 0 2 3 3 16 
+0 3 3 16 
+----------------------------
+Running bc/klee_bst_sym/test000028.ktest
+0 0 1 1 2 2 
+0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000029.ktest
+0 0 2 3 3 3 
+0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000030.ktest
+----------------------------
+Running bc/klee_bst_sym/test000031.ktest
+----------------------------
+Running bc/klee_bst_sym/test000032.ktest
+0 0 0 0 0 0 1 1 16 
+0 0 0 0 0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000033.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000034.ktest
+0 0 1 3 3 4 
+2 17569040 
+----------------------------
+Running bc/klee_bst_sym/test000035.ktest
+0 0 2 2 3 3 
+0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000036.ktest
+0 0 1 1 16 17 
+0 1 1 16 17 
+----------------------------
+Running bc/klee_bst_sym/test000037.ktest
+0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000038.ktest
+0 0 0 0 0 0 2 3 3 
+0 0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000039.ktest
+0 0 1 1 16 17 
+0 1 1 16 17 
+----------------------------
+Running bc/klee_bst_sym/test000040.ktest
+0 0 1 1 2 16 
+0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000041.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000042.ktest
+0 0 1 1 16 17 
+0 1 1 16 17 
+----------------------------
+Running bc/klee_bst_sym/test000043.ktest
+0 0 0 0 0 0 0 2 3 3 
+0 0 0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000044.ktest
+----------------------------
+Running bc/klee_bst_sym/test000045.ktest
+----------------------------
+Running bc/klee_bst_sym/test000046.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000047.ktest
+----------------------------
+Running bc/klee_bst_sym/test000048.ktest
+0 0 0 0 0 0 0 1 1 16 
+0 0 0 0 0 0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000049.ktest
+0 0 0 1 3 3 8 
+0 0 1 3 3 8 
+----------------------------
+Running bc/klee_bst_sym/test000050.ktest
+0 0 1 1 1 2 
+2 29656336 
+----------------------------
+Running bc/klee_bst_sym/test000051.ktest
+0 0 0 1 2 2 3 
+0 0 1 2 3 
+----------------------------
+Running bc/klee_bst_sym/test000052.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000053.ktest
+0 0 0 1 1 2 16 
+0 0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000054.ktest
+0 0 0 1 1 3 3 
+0 0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000055.ktest
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000056.ktest
+0 0 0 1 3 3 4 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000057.ktest
+0 0 0 1 3 3 3 
+0 0 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000058.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000059.ktest
+0 0 0 1 1 3 3 
+0 0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000060.ktest
+0 0 0 1 3 3 4 
+2 37287184 
+----------------------------
+Running bc/klee_bst_sym/test000061.ktest
+0 0 0 1 1 2 16 
+0 0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000062.ktest
+0 0 0 0 0 1 3 
+1 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000063.ktest
+0 0 0 0 0 1 2 
+2 28734672 
+----------------------------
+Running bc/klee_bst_sym/test000064.ktest
+0 0 0 1 1 16 17 
+0 0 1 1 16 17 
+----------------------------
+Running bc/klee_bst_sym/test000065.ktest
+----------------------------
+Running bc/klee_bst_sym/test000066.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000067.ktest
+0 0 0 1 1 1 1 
+0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000068.ktest
+0 0 0 0 0 0 1 
+0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000069.ktest
+0 0 0 0 1 2 2 3 
+0 0 0 1 2 3 
+----------------------------
+Running bc/klee_bst_sym/test000070.ktest
+0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000071.ktest
+0 0 0 0 1 3 3 4 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000072.ktest
+0 0 0 0 1 1 3 3 
+0 0 0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000073.ktest
+0 0 0 0 1 3 3 8 
+0 0 0 1 3 3 8 
+----------------------------
+Running bc/klee_bst_sym/test000074.ktest
+0 0 0 0 1 3 3 3 
+0 0 0 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000075.ktest
+0 0 0 0 1 1 2 16 
+0 0 0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000076.ktest
+0 0 0 1 1 8 
+0 0 1 1 8 
+----------------------------
+Running bc/klee_bst_sym/test000077.ktest
+----------------------------
+Running bc/klee_bst_sym/test000078.ktest
+----------------------------
+Running bc/klee_bst_sym/test000079.ktest
+0 0 2 3 3 18 
+0 3 3 18 
+----------------------------
+Running bc/klee_bst_sym/test000080.ktest
+0 0 0 1 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000081.ktest
+0 0 1 3 3 3 
+0 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000082.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000083.ktest
+0 0 1 1 5 5 
+0 1 1 5 5 
+----------------------------
+Running bc/klee_bst_sym/test000084.ktest
+0 2 2 3 3 18 
+2 3 3 18 
+----------------------------
+Running bc/klee_bst_sym/test000085.ktest
+0 1 1 3 3 3 
+1 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000086.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000087.ktest
+0 0 0 1 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000088.ktest
+0 0 2 3 3 3 
+0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000089.ktest
+0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000090.ktest
+0 1 2 2 3 4 
+1 2 3 
+----------------------------
+Running bc/klee_bst_sym/test000091.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000092.ktest
+0 0 1 1 3 3 
+0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000093.ktest
+0 1 3 3 16 16 
+1 3 3 16 16 
+----------------------------
+Running bc/klee_bst_sym/test000094.ktest
+0 0 0 0 1 1 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000095.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000096.ktest
+----------------------------
+Running bc/klee_bst_sym/test000097.ktest
+0 0 0 1 1 2 
+0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000098.ktest
+----------------------------
+Running bc/klee_bst_sym/test000099.ktest
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000100.ktest
+0 0 0 1 2 2 
+0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000101.ktest
+0 1 1 2 2 16 
+1 1 2 16 
+----------------------------
+Running bc/klee_bst_sym/test000102.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000103.ktest
+0 0 0 0 1 1 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000104.ktest
+0 0 0 1 1 2 
+0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000105.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000106.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000107.ktest
+0 0 2 2 3 3 
+0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000108.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000109.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000110.ktest
+----------------------------
+Running bc/klee_bst_sym/test000111.ktest
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+----------------------------
+Running bc/klee_bst_sym/test000112.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000113.ktest
+0 0 2 2 3 3 
+0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000114.ktest
+----------------------------
+Running bc/klee_bst_sym/test000115.ktest
+0 0 0 0 0 0 1 3 
+1 0 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000116.ktest
+0 0 0 2 3 3 
+0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000117.ktest
+0 0 0 2 3 3 
+0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000118.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000119.ktest
+0 0 0 1 1 2 
+0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000120.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000121.ktest
+0 0 2 3 3 3 
+0 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000122.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000123.ktest
+0 0 0 0 0 2 3 3 
+0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000124.ktest
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000125.ktest
+0 0 0 2 3 3 
+0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000126.ktest
+0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000127.ktest
+0 0 0 0 0 1 1 3 
+0 0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000128.ktest
+0 0 0 0 0 0 1 3 
+0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000129.ktest
+0 0 0 0 0 0 1 1 2 
+0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000130.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000131.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000132.ktest
+0 0 0 0 1 1 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000133.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000134.ktest
+0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000135.ktest
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000136.ktest
+0 0 0 0 0 0 1 2 
+2 24655056 
+----------------------------
+Running bc/klee_bst_sym/test000137.ktest
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000138.ktest
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000139.ktest
+0 0 0 0 0 0 0 1 1 2 
+0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000140.ktest
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000141.ktest
+0 0 0 0 0 0 1 1 2 
+0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000142.ktest
+0 0 1 2 3 
+0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000143.ktest
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000144.ktest
+0 0 0 0 0 0 0 1 1 2 
+0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000145.ktest
+0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000146.ktest
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000147.ktest
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000148.ktest
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000149.ktest
+----------------------------
+Running bc/klee_bst_sym/test000150.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000151.ktest
+0 0 0 1 3 
+0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000152.ktest
+----------------------------
+Running bc/klee_bst_sym/test000153.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000154.ktest
+0 0 0 1 1 1 2 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000155.ktest
+0 0 0 1 3 3 
+1 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000156.ktest
+0 0 1 2 3 
+0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000157.ktest
+0 0 0 1 1 2 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000158.ktest
+0 0 0 0 1 1 2 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000159.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000160.ktest
+0 0 1 1 2 2 
+0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000161.ktest
+0 0 0 0 1 
+0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000162.ktest
+0 0 0 2 2 3 3 
+0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000163.ktest
+----------------------------
+Running bc/klee_bst_sym/test000164.ktest
+0 0 0 1 3 3 
+1 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000165.ktest
+----------------------------
+Running bc/klee_bst_sym/test000166.ktest
+0 0 0 0 1 3 3 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000167.ktest
+0 0 0 1 1 2 
+2 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000168.ktest
+0 0 0 1 2 
+2 9397424 
+----------------------------
+Running bc/klee_bst_sym/test000169.ktest
+0 0 0 0 0 0 0 1 3 
+1 0 0 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000170.ktest
+0 0 0 2 2 3 3 
+0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000171.ktest
+----------------------------
+Running bc/klee_bst_sym/test000172.ktest
+0 0 0 1 1 1 1 
+0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000173.ktest
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000174.ktest
+0 0 0 0 1 1 2 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000175.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000176.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000177.ktest
+0 0 0 1 1 2 
+2 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000178.ktest
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000179.ktest
+0 0 0 0 1 1 2 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000180.ktest
+0 0 0 1 1 2 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000181.ktest
+0 0 0 0 0 0 0 0 1 3 
+1 0 0 0 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000182.ktest
+0 0 0 1 1 3 3 
+0 0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000183.ktest
+0 0 0 1 1 1 2 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000184.ktest
+0 0 0 0 0 0 0 1 2 2 
+0 0 0 0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000185.ktest
+0 0 0 0 1 2 2 
+0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000186.ktest
+0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000187.ktest
+0 0 0 2 3 3 16 
+0 0 3 3 16 
+----------------------------
+Running bc/klee_bst_sym/test000188.ktest
+----------------------------
+Running bc/klee_bst_sym/test000189.ktest
+----------------------------
+Running bc/klee_bst_sym/test000190.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000191.ktest
+0 0 0 0 0 0 0 0 1 3 
+0 0 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000192.ktest
+0 0 0 0 1 3 3 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000193.ktest
+0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000194.ktest
+0 0 0 1 1 2 
+2 29230288 
+----------------------------
+Running bc/klee_bst_sym/test000195.ktest
+0 0 0 0 1 1 
+1 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000196.ktest
+0 0 0 1 2 
+2 20546768 
+----------------------------
+Running bc/klee_bst_sym/test000197.ktest
+0 0 1 1 1 2 
+2 17097936 
+----------------------------
+Running bc/klee_bst_sym/test000198.ktest
+0 0 1 2 3 
+0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000199.ktest
+0 0 1 1 1 2 
+2 38171888 
+----------------------------
+Running bc/klee_bst_sym/test000200.ktest
+----------------------------
+Running bc/klee_bst_sym/test000201.ktest
+0 0 0 0 0 0 0 1 3 
+0 0 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000202.ktest
+0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000203.ktest
+0 0 0 1 1 2 2 
+0 0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000204.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000205.ktest
+0 0 0 1 1 1 
+1 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000206.ktest
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000207.ktest
+0 0 0 0 0 0 1 2 2 
+0 0 0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000208.ktest
+0 0 0 1 1 1 
+1 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000209.ktest
+0 0 0 0 0 0 0 1 1 3 
+0 0 0 0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000210.ktest
+0 0 0 1 1 2 
+2 11457776 
+----------------------------
+Running bc/klee_bst_sym/test000211.ktest
+0 0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000212.ktest
+0 0 0 1 2 2 
+0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000213.ktest
+0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000214.ktest
+0 0 0 0 1 1 
+1 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000215.ktest
+0 0 0 1 1 2 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000216.ktest
+0 0 0 0 0 1 1 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000217.ktest
+0 0 0 1 1 1 1 
+0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000218.ktest
+0 0 0 0 2 3 3 
+0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000219.ktest
+0 0 0 1 3 3 3 
+0 0 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000220.ktest
+0 0 0 2 2 3 3 
+0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000221.ktest
+0 0 0 0 0 1 1 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000222.ktest
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000223.ktest
+0 0 0 0 0 0 0 0 1 2 
+2 25552080 
+----------------------------
+Running bc/klee_bst_sym/test000224.ktest
+----------------------------
+Running bc/klee_bst_sym/test000225.ktest
+0 0 0 0 1 1 2 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000226.ktest
+0 0 0 0 0 0 1 1 3 
+0 0 0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000227.ktest
+0 0 0 2 2 3 3 
+0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000228.ktest
+0 0 0 1 1 2 2 
+0 0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000229.ktest
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+----------------------------
+Running bc/klee_bst_sym/test000230.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000231.ktest
+0 0 0 0 1 1 2 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000232.ktest
+0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000233.ktest
+0 0 0 0 1 1 1 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000234.ktest
+0 0 0 0 2 3 3 
+0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000235.ktest
+0 0 0 1 1 1 2 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000236.ktest
+0 0 0 0 2 3 3 
+0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000237.ktest
+0 0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000238.ktest
+0 0 0 1 1 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000239.ktest
+0 0 0 1 1 1 2 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000240.ktest
+0 0 0 0 0 0 0 1 2 
+2 31925456 
+----------------------------
+Running bc/klee_bst_sym/test000241.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000242.ktest
+----------------------------
+Running bc/klee_bst_sym/test000243.ktest
+0 0 0 0 1 1 
+1 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000244.ktest
+----------------------------
+Running bc/klee_bst_sym/test000245.ktest
+0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000246.ktest
+0 0 0 1 1 1 1 
+0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000247.ktest
+0 0 0 0 0 1 1 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000248.ktest
+0 0 0 1 2 3 
+0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000249.ktest
+0 0 0 1 1 1 
+1 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000250.ktest
+----------------------------
+Running bc/klee_bst_sym/test000251.ktest
+0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+----------------------------
+Running bc/klee_bst_sym/test000252.ktest
+0 0 1 2 2 3 
+0 1 2 3 
+----------------------------
+Running bc/klee_bst_sym/test000253.ktest
+0 0 0 0 1 3 
+1 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000254.ktest
+0 0 0 0 1 1 
+0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000255.ktest
+0 0 0 0 1 3 
+1 0 0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000256.ktest
+0 0 0 1 2 2 
+0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000257.ktest
+0 0 0 0 1 2 
+2 35259600 
+----------------------------
+Running bc/klee_bst_sym/test000258.ktest
+0 0 0 0 1 1 
+1 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000259.ktest
+0 0 0 1 2 2 
+2 0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000260.ktest
+0 0 1 1 3 10 
+0 1 1 3 10 
+----------------------------
+Running bc/klee_bst_sym/test000261.ktest
+0 0 0 1 2 3 
+0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000262.ktest
+0 0 0 1 1 2 
+2 37278896 
+----------------------------
+Running bc/klee_bst_sym/test000263.ktest
+0 0 0 0 1 1 
+1 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000264.ktest
+0 0 0 0 1 3 3 
+1 0 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000265.ktest
+0 0 0 0 0 1 
+1 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000266.ktest
+0 0 0 0 1 3 3 
+1 0 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000267.ktest
+0 0 0 0 0 1 
+1 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000268.ktest
+0 0 0 1 2 3 
+0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000269.ktest
+0 0 0 1 1 3 
+1 0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000270.ktest
+0 0 0 0 0 1 1 2 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000271.ktest
+0 0 0 1 1 2 2 
+0 0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000272.ktest
+0 0 0 1 1 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000273.ktest
+----------------------------
+Running bc/klee_bst_sym/test000274.ktest
+0 0 0 0 2 2 3 3 
+0 0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000275.ktest
+0 0 0 0 1 1 2 
+2 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000276.ktest
+0 0 0 0 1 2 
+2 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000277.ktest
+0 0 0 0 1 3 
+0 0 0 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000278.ktest
+0 0 0 0 1 1 2 3 
+0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000279.ktest
+0 0 0 0 0 1 3 3 
+0 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000280.ktest
+0 0 0 0 0 1 
+1 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000281.ktest
+0 0 0 0 1 1 2 2 
+0 0 0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000282.ktest
+----------------------------
+Running bc/klee_bst_sym/test000283.ktest
+0 0 0 0 1 1 2 
+2 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000284.ktest
+0 0 0 1 1 2 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000285.ktest
+0 0 0 0 1 1 1 2 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000286.ktest
+0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+----------------------------
+Running bc/klee_bst_sym/test000287.ktest
+0 0 0 1 1 2 3 
+0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000288.ktest
+0 0 0 0 0 1 
+0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000289.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000290.ktest
+----------------------------
+Running bc/klee_bst_sym/test000291.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000292.ktest
+0 0 0 0 1 1 1 
+1 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000293.ktest
+0 0 0 0 1 1 1 1 
+0 0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000294.ktest
+0 0 0 0 1 2 
+2 16622768 
+----------------------------
+Running bc/klee_bst_sym/test000295.ktest
+0 0 0 0 1 1 1 
+1 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000296.ktest
+0 0 0 0 1 2 3 3 
+0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000297.ktest
+0 0 0 0 1 1 2 3 
+0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000298.ktest
+0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000299.ktest
+0 0 0 0 0 1 1 2 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000300.ktest
+0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000301.ktest
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000302.ktest
+0 0 0 0 1 1 3 3 
+0 0 0 1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000303.ktest
+0 0 0 0 2 2 3 3 
+0 0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000304.ktest
+----------------------------
+Running bc/klee_bst_sym/test000305.ktest
+----------------------------
+Running bc/klee_bst_sym/test000306.ktest
+0 0 0 1 1 1 2 
+2 18760944 
+----------------------------
+Running bc/klee_bst_sym/test000307.ktest
+0 0 0 0 1 1 2 
+2 38778064 
+----------------------------
+Running bc/klee_bst_sym/test000308.ktest
+0 0 0 0 1 1 1 
+1 0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000309.ktest
+0 0 0 0 0 1 1 2 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000310.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000311.ktest
+0 0 0 1 1 1 2 
+2 9565392 
+----------------------------
+Running bc/klee_bst_sym/test000312.ktest
+0 0 0 0 0 1 3 3 
+0 0 0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000313.ktest
+0 0 0 0 2 3 3 16 
+0 0 0 3 3 16 
+----------------------------
+Running bc/klee_bst_sym/test000314.ktest
+0 1 1 1 2 16 
+1 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000315.ktest
+----------------------------
+Running bc/klee_bst_sym/test000316.ktest
+0 0 0 0 1 1 1 2 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000317.ktest
+0 0 0 0 0 2 3 3 
+0 0 0 0 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000318.ktest
+0 0 0 0 1 1 1 2 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000319.ktest
+0 0 0 0 1 1 2 
+2 22013168 
+----------------------------
+Running bc/klee_bst_sym/test000320.ktest
+0 1 1 2 3 3 
+1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000321.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000322.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000323.ktest
+0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000324.ktest
+0 1 2 2 3 5 
+1 2 3 5 
+----------------------------
+Running bc/klee_bst_sym/test000325.ktest
+0 0 0 0 1 1 2 3 
+0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000326.ktest
+0 0 0 1 2 3 3 
+0 0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000327.ktest
+----------------------------
+Running bc/klee_bst_sym/test000328.ktest
+----------------------------
+Running bc/klee_bst_sym/test000329.ktest
+0 0 0 0 2 2 3 3 
+0 0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000330.ktest
+0 1 1 2 2 16 
+1 1 2 16 
+----------------------------
+Running bc/klee_bst_sym/test000331.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000332.ktest
+----------------------------
+Running bc/klee_bst_sym/test000333.ktest
+0 0 1 1 2 3 
+0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000334.ktest
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000335.ktest
+----------------------------
+Running bc/klee_bst_sym/test000336.ktest
+0 1 1 2 3 3 
+1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000337.ktest
+0 1 1 2 3 3 
+1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000338.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000339.ktest
+----------------------------
+Running bc/klee_bst_sym/test000340.ktest
+0 1 1 2 2 2 
+1 1 2 2 
+----------------------------
+Running bc/klee_bst_sym/test000341.ktest
+0 0 0 0 1 1 1 1 
+0 0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000342.ktest
+----------------------------
+Running bc/klee_bst_sym/test000343.ktest
+0 0 0 0 1 2 2 
+0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000344.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000345.ktest
+0 0 1 1 8 16 
+0 1 1 8 16 
+----------------------------
+Running bc/klee_bst_sym/test000346.ktest
+----------------------------
+Running bc/klee_bst_sym/test000347.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000348.ktest
+0 0 0 0 1 1 2 2 
+0 0 0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000349.ktest
+----------------------------
+Running bc/klee_bst_sym/test000350.ktest
+0 0 0 0 1 1 1 1 
+0 0 0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000351.ktest
+0 0 0 0 1 2 2 
+0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000352.ktest
+0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 1 
+----------------------------
+Running bc/klee_bst_sym/test000353.ktest
+0 0 0 0 0 1 2 2 
+0 0 0 0 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000354.ktest
+----------------------------
+Running bc/klee_bst_sym/test000355.ktest
+0 0 1 1 2 16 
+0 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000356.ktest
+----------------------------
+Running bc/klee_bst_sym/test000357.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000358.ktest
+0 0 0 0 0 1 1 2 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000359.ktest
+0 2 2 2 3 3 
+2 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000360.ktest
+0 2 3 3 3 4 
+3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000361.ktest
+0 1 1 2 3 3 
+1 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000362.ktest
+0 1 2 3 3 10 
+1 3 3 10 
+----------------------------
+Running bc/klee_bst_sym/test000363.ktest
+0 1 1 3 3 3 
+1 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000364.ktest
+0 1 2 2 4 5 
+1 2 5 
+----------------------------
+Running bc/klee_bst_sym/test000365.ktest
+0 1 2 2 3 3 
+1 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000366.ktest
+0 2 3 3 3 10 
+3 3 3 10 
+----------------------------
+Running bc/klee_bst_sym/test000367.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000368.ktest
+0 0 0 0 0 1 1 2 
+0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000369.ktest
+0 0 1 1 1 8 
+0 1 1 1 8 
+----------------------------
+Running bc/klee_bst_sym/test000370.ktest
+0 0 0 1 1 2 
+0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000371.ktest
+0 0 1 1 2 2 
+0 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000372.ktest
+0 1 1 3 3 3 
+1 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000373.ktest
+----------------------------
+Running bc/klee_bst_sym/test000374.ktest
+----------------------------
+Running bc/klee_bst_sym/test000375.ktest
+0 1 2 3 3 3 
+1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000376.ktest
+0 1 2 3 3 3 
+1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000377.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000378.ktest
+0 1 3 3 3 3 
+1 3 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000379.ktest
+0 0 0 1 2 2 3 
+0 0 1 2 3 
+----------------------------
+Running bc/klee_bst_sym/test000380.ktest
+0 1 1 3 3 3 
+1 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000381.ktest
+0 1 2 3 3 4 
+1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000382.ktest
+0 1 1 2 2 2 
+1 1 2 2 
+----------------------------
+Running bc/klee_bst_sym/test000383.ktest
+0 0 0 0 1 1 1 2 
+0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000384.ktest
+----------------------------
+Running bc/klee_bst_sym/test000385.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000386.ktest
+0 0 0 0 1 3 3 3 
+0 0 0 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000387.ktest
+----------------------------
+Running bc/klee_bst_sym/test000388.ktest
+0 0 0 0 2 2 3 3 
+0 0 0 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000389.ktest
+----------------------------
+Running bc/klee_bst_sym/test000390.ktest
+0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000391.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000392.ktest
+0 1 1 1 2 2 
+1 1 1 2 
+----------------------------
+Running bc/klee_bst_sym/test000393.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000394.ktest
+0 1 1 3 3 18 
+1 1 3 3 18 
+----------------------------
+Running bc/klee_bst_sym/test000395.ktest
+0 0 0 0 0 1 2 
+2 13661360 
+----------------------------
+Running bc/klee_bst_sym/test000396.ktest
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+----------------------------
+Running bc/klee_bst_sym/test000397.ktest
+0 0 0 0 0 1 1 1 
+0 0 0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000398.ktest
+0 1 2 5 6 6 
+1 5 6 6 
+----------------------------
+Running bc/klee_bst_sym/test000399.ktest
+0 1 1 1 2 16 
+1 1 1 16 
+----------------------------
+Running bc/klee_bst_sym/test000400.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000401.ktest
+----------------------------
+Running bc/klee_bst_sym/test000402.ktest
+0 2 3 3 3 3 
+3 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000403.ktest
+0 0 1 1 1 1 
+0 1 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000404.ktest
+0 0 1 2 2 2 
+0 1 2 2 
+----------------------------
+Running bc/klee_bst_sym/test000405.ktest
+0 0 1 1 1 2 
+0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000406.ktest
+0 1 1 3 3 3 
+1 1 3 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000407.ktest
+----------------------------
+Running bc/klee_bst_sym/test000408.ktest
+----------------------------
+Running bc/klee_bst_sym/test000409.ktest
+0 1 1 3 3 5 
+1 1 3 3 5 
+----------------------------
+Running bc/klee_bst_sym/test000410.ktest
+0 2 2 2 3 3 
+2 2 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000411.ktest
+----------------------------
+Running bc/klee_bst_sym/test000412.ktest
+0 0 1 2 3 3 
+0 1 3 3 
+----------------------------
+Running bc/klee_bst_sym/test000413.ktest
+0 0 0 0 1 1 3 
+0 0 0 1 1 3 
+----------------------------
+Running bc/klee_bst_sym/test000414.ktest
+0 0 0 1 1 1 
+0 0 1 1 1 
+----------------------------
+Running bc/klee_bst_sym/test000415.ktest
+----------------------------
+Running bc/klee_bst_sym/test000416.ktest
+0 0 1 1 1 8 
+0 1 1 1 8 
+----------------------------
+Running bc/klee_bst_sym/test000417.ktest
+0 0 1 1 2 2 
+0 1 1 2 
+----------------------------

@@ -1,0 +1,5 @@
+bst: test000001.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_bst/test000001.ktest'
+args       : ['bst.bc']
+num objects: 0
+

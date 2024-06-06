@@ -1,0 +1,3090 @@
+maze_final: test000001.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000001.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+object 0: hex : 0x00000000000000000000000000000000000000000000000000000000
+object 0: text: ............................
+
+maze_final: test000002.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000002.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x64ffffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: d...........................
+
+maze_final: test000003.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000003.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'w\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x77ffffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: w...........................
+
+maze_final: test000004.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000004.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'a\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x61ffffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: a...........................
+
+maze_final: test000005.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000005.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b's\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7300ffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: s...........................
+
+maze_final: test000006.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000006.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7361ffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sa..........................
+
+maze_final: test000007.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000007.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7377ffffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sw..........................
+
+maze_final: test000008.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000008.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736400ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sd..........................
+
+maze_final: test000009.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000009.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737300ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ss..........................
+
+maze_final: test000010.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000010.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736473ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sds.........................
+
+maze_final: test000011.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000011.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737364ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssd.........................
+
+maze_final: test000012.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000012.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737361ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssa.........................
+
+maze_final: test000013.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000013.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737377ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssw.........................
+
+maze_final: test000014.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000014.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736461ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sda.........................
+
+maze_final: test000015.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000015.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736477ffffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sdw.........................
+
+maze_final: test000016.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000016.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646400ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sdd.........................
+
+maze_final: test000017.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000017.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737300ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sss.........................
+
+maze_final: test000018.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000018.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646464ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddd........................
+
+maze_final: test000019.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000019.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646461ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sdda........................
+
+maze_final: test000020.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000020.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737361ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sssa........................
+
+maze_final: test000021.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000021.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737364ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sssd........................
+
+maze_final: test000022.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000022.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737377ffffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sssw........................
+
+maze_final: test000023.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000023.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737300ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssss........................
+
+maze_final: test000024.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000024.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737361ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssa.......................
+
+maze_final: test000025.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000025.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sssss\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737373ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sssss.......................
+
+maze_final: test000026.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000026.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737377ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssw.......................
+
+maze_final: test000027.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000027.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647700ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddw........................
+
+maze_final: test000028.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000028.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sdds\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647300ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sdds........................
+
+maze_final: test000029.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000029.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647761ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwa.......................
+
+maze_final: test000030.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000030.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddww\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647777ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddww.......................
+
+maze_final: test000031.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000031.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647773ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddws.......................
+
+maze_final: test000032.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000032.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647361ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsa.......................
+
+maze_final: test000033.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000033.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddss\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647373ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddss.......................
+
+maze_final: test000034.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000034.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647377ffffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsw.......................
+
+maze_final: test000035.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000035.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736400ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssd.......................
+
+maze_final: test000036.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000036.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736461ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssda......................
+
+maze_final: test000037.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000037.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736477ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdw......................
+
+maze_final: test000038.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000038.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736473ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssds......................
+
+maze_final: test000039.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000039.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776400ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwd.......................
+
+maze_final: test000040.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000040.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776461ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwda......................
+
+maze_final: test000041.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000041.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736400ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsd.......................
+
+maze_final: test000042.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000042.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776477ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdw......................
+
+maze_final: test000043.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000043.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776473ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwds......................
+
+maze_final: test000044.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000044.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736473ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsds......................
+
+maze_final: test000045.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000045.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646400ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdd......................
+
+maze_final: test000046.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000046.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736461ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsda......................
+
+maze_final: test000047.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000047.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736477ffffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsdw......................
+
+maze_final: test000048.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000048.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646473ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdds.....................
+
+maze_final: test000049.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000049.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646461ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdda.....................
+
+maze_final: test000050.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000050.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646477ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddw.....................
+
+maze_final: test000051.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000051.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646400ffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddd.....................
+
+maze_final: test000052.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000052.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646461ffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddda....................
+
+maze_final: test000053.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000053.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646400ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdd......................
+
+maze_final: test000054.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000054.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646477ffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdddw....................
+
+maze_final: test000055.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000055.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646473ffffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddds....................
+
+maze_final: test000056.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000056.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646473ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdds.....................
+
+maze_final: test000057.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000057.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646461ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdda.....................
+
+maze_final: test000058.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000058.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646477ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddw.....................
+
+maze_final: test000059.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000059.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646400ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsdd......................
+
+maze_final: test000060.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000060.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646464ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddd.....................
+
+maze_final: test000061.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000061.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646477ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddw.....................
+
+maze_final: test000062.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000062.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646461ffffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsdda.....................
+
+maze_final: test000063.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000063.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646400ffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdddd....................
+
+maze_final: test000064.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000064.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646464ffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddd...................
+
+maze_final: test000065.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000065.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646461ffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdddda...................
+
+maze_final: test000066.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000066.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssdddds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646473ffffffffffffffffffffffffffffffffffffff
+object 0: text: ssssdddds...................
+
+maze_final: test000067.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000067.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646400ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddd.....................
+
+maze_final: test000068.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000068.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646461ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddda....................
+
+maze_final: test000069.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000069.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646477ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdddw....................
+
+maze_final: test000070.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000070.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646473ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddds....................
+
+maze_final: test000071.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000071.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsdds\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647300ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsdds.....................
+
+maze_final: test000072.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000072.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddsd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647364ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddsd....................
+
+maze_final: test000073.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000073.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddsw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647377ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddsw....................
+
+maze_final: test000074.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000074.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddsa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647361ffffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddsa....................
+
+maze_final: test000075.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000075.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647700ffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddw...................
+
+maze_final: test000076.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000076.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647764ffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwd..................
+
+maze_final: test000077.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000077.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647773ffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddws..................
+
+maze_final: test000078.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000078.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647761ffffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwa..................
+
+maze_final: test000079.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000079.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646400ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdddd....................
+
+maze_final: test000080.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000080.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777700ffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddww..................
+
+maze_final: test000081.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000081.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646461ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdddda...................
+
+maze_final: test000082.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000082.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646464ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddd...................
+
+maze_final: test000083.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000083.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777764ffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwd.................
+
+maze_final: test000084.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000084.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777773ffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwws.................
+
+maze_final: test000085.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000085.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646477ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddw...................
+
+maze_final: test000086.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000086.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwww\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777777ffffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwww.................
+
+maze_final: test000087.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000087.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737300ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddss....................
+
+maze_final: test000088.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000088.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737364ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssd...................
+
+maze_final: test000089.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000089.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737377ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssw...................
+
+maze_final: test000090.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000090.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddsss\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737373ffffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddsss...................
+
+maze_final: test000091.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000091.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776100ffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwa.................
+
+maze_final: test000092.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000092.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776164ffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwad................
+
+maze_final: test000093.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000093.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776173ffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwas................
+
+maze_final: test000094.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000094.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776177ffffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaw................
+
+maze_final: test000095.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000095.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwdddds\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647300ffffffffffffffffffffffffffffffffffff
+object 0: text: sddwdddds...................
+
+maze_final: test000096.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000096.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647361ffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsa..................
+
+maze_final: test000097.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000097.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647377ffffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsw..................
+
+maze_final: test000098.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000098.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736100ffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssa...................
+
+maze_final: test000099.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000099.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736164ffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssad..................
+
+maze_final: test000100.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000100.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736177ffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaw..................
+
+maze_final: test000101.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000101.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736173ffffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssas..................
+
+maze_final: test000102.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000102.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616100ffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaa................
+
+maze_final: test000103.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000103.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616164ffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaad...............
+
+maze_final: test000104.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000104.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616173ffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaas...............
+
+maze_final: test000105.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000105.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaaa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616161ffffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaaa...............
+
+maze_final: test000106.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000106.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaaw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617700ffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaaw...............
+
+maze_final: test000107.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000107.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616100ffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaa..................
+
+maze_final: test000108.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000108.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617764ffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawd..............
+
+maze_final: test000109.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000109.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaaws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617773ffffffffffffffffffffffffffff
+object 0: text: ssssddddwwaaws..............
+
+maze_final: test000110.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000110.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616173ffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaas.................
+
+maze_final: test000111.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000111.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616164ffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaad.................
+
+maze_final: test000112.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000112.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616177ffffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaw.................
+
+maze_final: test000113.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000113.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736400ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsd..................
+
+maze_final: test000114.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000114.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737361ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddssa.................
+
+maze_final: test000115.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000115.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737300ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddss..................
+
+maze_final: test000116.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000116.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736461ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsda.................
+
+maze_final: test000117.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000117.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737364ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddssd.................
+
+maze_final: test000118.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000118.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736473ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsds.................
+
+maze_final: test000119.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000119.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736477ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdw.................
+
+maze_final: test000120.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000120.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737377ffffffffffffffffffffffffffffffffff
+object 0: text: sddwddddssw.................
+
+maze_final: test000121.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000121.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161776100ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawa..............
+
+maze_final: test000122.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000122.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616100ffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaa.................
+
+maze_final: test000123.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000123.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161776164ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawad.............
+
+maze_final: test000124.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000124.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161776177ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawaw.............
+
+maze_final: test000125.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000125.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaaww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777700ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaaww..............
+
+maze_final: test000126.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000126.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawaa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161776161ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawaa.............
+
+maze_final: test000127.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000127.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777761ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawwa.............
+
+maze_final: test000128.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000128.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161776173ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawas.............
+
+maze_final: test000129.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000129.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616173ffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaas................
+
+maze_final: test000130.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000130.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777773ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawws.............
+
+maze_final: test000131.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000131.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawww\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777777ffffffffffffffffffffffffff
+object 0: text: ssssddddwwaawww.............
+
+maze_final: test000132.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000132.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616177ffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaw................
+
+maze_final: test000133.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000133.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616164ffffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaad................
+
+maze_final: test000134.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000134.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776400ffffffffffffffffffffffff
+object 0: text: ssssddddwwaawwd.............
+
+maze_final: test000135.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000135.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776461ffffffffffffffffffffffff
+object 0: text: ssssddddwwaawwda............
+
+maze_final: test000136.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000136.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776473ffffffffffffffffffffffff
+object 0: text: ssssddddwwaawwds............
+
+maze_final: test000137.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000137.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776477ffffffffffffffffffffffff
+object 0: text: ssssddddwwaawwdw............
+
+maze_final: test000138.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000138.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736161616164ffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaad...............
+
+maze_final: test000139.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000139.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736161616173ffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaas...............
+
+maze_final: test000140.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000140.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737300ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsss.................
+
+maze_final: test000141.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000141.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736161616100ffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaa................
+
+maze_final: test000142.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000142.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaaa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646473646473736161616161ffffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaaa...............
+
+maze_final: test000143.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000143.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646477ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddw................
+
+maze_final: test000144.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000144.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737377ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsssw................
+
+maze_final: test000145.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000145.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737364ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsssd................
+
+maze_final: test000146.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000146.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737361ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsssa................
+
+maze_final: test000147.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000147.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646461ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdda................
+
+maze_final: test000148.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000148.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646400ffffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdd.................
+
+maze_final: test000149.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000149.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646400ffffffffffffffffffffff
+object 0: text: ssssddddwwaawwdd............
+
+maze_final: test000150.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000150.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646461ffffffffffffffffffffff
+object 0: text: ssssddddwwaawwdda...........
+
+maze_final: test000151.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000151.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646477ffffffffffffffffffffff
+object 0: text: ssssddddwwaawwddw...........
+
+maze_final: test000152.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000152.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646473ffffffffffffffffffffff
+object 0: text: ssssddddwwaawwdds...........
+
+maze_final: test000153.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000153.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646400ffffffffffffffffffff
+object 0: text: ssssddddwwaawwddd...........
+
+maze_final: test000154.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000154.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaaw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616161617700ffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaaw...............
+
+maze_final: test000155.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000155.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646477ffffffffffffffffffff
+object 0: text: ssssddddwwaawwdddw..........
+
+maze_final: test000156.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000156.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646461ffffffffffffffffffff
+object 0: text: ssssddddwwaawwddda..........
+
+maze_final: test000157.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000157.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646473ffffffffffffffffffff
+object 0: text: ssssddddwwaawwddds..........
+
+maze_final: test000158.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000158.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616161617764ffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawd..............
+
+maze_final: test000159.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000159.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaaws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616161617773ffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaaws..............
+
+maze_final: test000160.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000160.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647364647373616161617761ffffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawa..............
+
+maze_final: test000161.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000161.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdddda\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646461ffffffffffffffffff
+object 0: text: ssssddddwwaawwdddda.........
+
+maze_final: test000162.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000162.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddd\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646464ffffffffffffffffff
+object 0: text: ssssddddwwaawwddddd.........
+
+maze_final: test000163.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000163.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddw\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646477ffffffffffffffffff
+object 0: text: ssssddddwwaawwddddw.........
+
+maze_final: test000164.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000164.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646400ffffffffffffffffff
+object 0: text: ssssddddwwaawwdddd..........
+
+maze_final: test000165.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000165.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsssss\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737373ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsssss...............
+
+maze_final: test000166.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000166.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737377ffffffffffffffffffffffffffffff
+object 0: text: sddwddddssssw...............
+
+maze_final: test000167.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000167.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737300ffffffffffffffffffffffffffffff
+object 0: text: sddwddddssss................
+
+maze_final: test000168.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000168.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737361ffffffffffffffffffffffffffffff
+object 0: text: sddwddddssssa...............
+
+maze_final: test000169.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000169.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364646400ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddd................
+
+maze_final: test000170.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000170.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364646464ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdddd...............
+
+maze_final: test000171.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000171.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364646461ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddda...............
+
+maze_final: test000172.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000172.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364646473ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddds...............
+
+maze_final: test000173.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000173.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616161777761ffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawwa.............
+
+maze_final: test000174.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000174.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdddw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364646477ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdddw...............
+
+maze_final: test000175.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000175.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616161777773ffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawws.............
+
+maze_final: test000176.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000176.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawwd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616161777764ffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawwd.............
+
+maze_final: test000177.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000177.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaaww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616161777700ffffffffffffffffffffffffff
+object 0: text: sddsddssaaaaww..............
+
+maze_final: test000178.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000178.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddsddssaaaawww\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464736464737361616161777777ffffffffffffffffffffffffff
+object 0: text: sddsddssaaaawww.............
+
+maze_final: test000179.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000179.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsdds\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647300ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsdds................
+
+maze_final: test000180.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000180.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647377ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddsw...............
+
+maze_final: test000181.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000181.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647361ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddsa...............
+
+maze_final: test000182.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000182.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647364ffffffffffffffffffffffffffffff
+object 0: text: sddwddddsddsd...............
+
+maze_final: test000183.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000183.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwdddds\x00\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647300ffffffffffffffff
+object 0: text: ssssddddwwaawwdddds.........
+
+maze_final: test000184.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000184.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsa\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647361ffffffffffffffff
+object 0: text: ssssddddwwaawwddddsa........
+
+maze_final: test000185.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000185.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsw\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647377ffffffffffffffff
+object 0: text: ssssddddwwaawwddddsw........
+
+maze_final: test000186.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000186.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssdw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736477ffffffffffffffffffffffffffff
+object 0: text: sddwddddssssdw..............
+
+maze_final: test000187.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000187.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736473ffffffffffffffffffffffffffff
+object 0: text: sddwddddssssds..............
+
+maze_final: test000188.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000188.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736461ffffffffffffffffffffffffffff
+object 0: text: sddwddddssssda..............
+
+maze_final: test000189.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000189.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736400ffffffffffffffffffffffffffff
+object 0: text: sddwddddssssd...............
+
+maze_final: test000190.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000190.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddssa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737361ffffffffffffffffffffffffffff
+object 0: text: sddwddddsddssa..............
+
+maze_final: test000191.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000191.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737364ffffffffffffffffffffffffffff
+object 0: text: sddwddddsddssd..............
+
+maze_final: test000192.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000192.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737300ffffffffffffffffffffffffffff
+object 0: text: sddwddddsddss...............
+
+maze_final: test000193.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000193.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737377ffffffffffffffffffffffffffff
+object 0: text: sddwddddsddssw..............
+
+maze_final: test000194.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000194.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddss\x00\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737300ffffffffffffff
+object 0: text: ssssddddwwaawwddddss........
+
+maze_final: test000195.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000195.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsd\x00\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736400ffffffffffffff
+object 0: text: ssssddddwwaawwddddsd........
+
+maze_final: test000196.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000196.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssd\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737364ffffffffffffff
+object 0: text: ssssddddwwaawwddddssd.......
+
+maze_final: test000197.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000197.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssa\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737361ffffffffffffff
+object 0: text: ssssddddwwaawwddddssa.......
+
+maze_final: test000198.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000198.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsds\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736473ffffffffffffff
+object 0: text: ssssddddwwaawwddddsds.......
+
+maze_final: test000199.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000199.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsda\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736461ffffffffffffff
+object 0: text: ssssddddwwaawwddddsda.......
+
+maze_final: test000200.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000200.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssw\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737377ffffffffffffff
+object 0: text: ssssddddwwaawwddddssw.......
+
+maze_final: test000201.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000201.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdw\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736477ffffffffffffff
+object 0: text: ssssddddwwaawwddddsdw.......
+
+maze_final: test000202.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000202.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646464ffffffffffffffffffffffffff
+object 0: text: sddwddddssssddd.............
+
+maze_final: test000203.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000203.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssdda\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646461ffffffffffffffffffffffffff
+object 0: text: sddwddddssssdda.............
+
+maze_final: test000204.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000204.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssdds\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646473ffffffffffffffffffffffffff
+object 0: text: sddwddddssssdds.............
+
+maze_final: test000205.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000205.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssdd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646400ffffffffffffffffffffffffff
+object 0: text: sddwddddssssdd..............
+
+maze_final: test000206.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000206.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsss\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737300ffffffffffffffffffffffffff
+object 0: text: sddwddddsddsss..............
+
+maze_final: test000207.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000207.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737364ffffffffffffffffffffffffff
+object 0: text: sddwddddsddsssd.............
+
+maze_final: test000208.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000208.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddssss\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737373ffffffffffffffffffffffffff
+object 0: text: sddwddddsddssss.............
+
+maze_final: test000209.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000209.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737377ffffffffffffffffffffffffff
+object 0: text: sddwddddsddsssw.............
+
+maze_final: test000210.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000210.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddw\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646477ffffffffffff
+object 0: text: ssssddddwwaawwddddsddw......
+
+maze_final: test000211.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000211.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdd\x00\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646400ffffffffffff
+object 0: text: ssssddddwwaawwddddsdd.......
+
+maze_final: test000212.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000212.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsssd\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737364ffffffffffff
+object 0: text: ssssddddwwaawwddddsssd......
+
+maze_final: test000213.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000213.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdda\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646461ffffffffffff
+object 0: text: ssssddddwwaawwddddsdda......
+
+maze_final: test000214.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000214.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsssa\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737361ffffffffffff
+object 0: text: ssssddddwwaawwddddsssa......
+
+maze_final: test000215.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000215.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsss\x00\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737300ffffffffffff
+object 0: text: ssssddddwwaawwddddsss.......
+
+maze_final: test000216.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000216.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsssw\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737377ffffffffffff
+object 0: text: ssssddddwwaawwddddsssw......
+
+maze_final: test000217.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000217.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647700ffffffffffffffffffffffff
+object 0: text: sddwddddssssddw.............
+
+maze_final: test000218.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000218.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647761ffffffffffffffffffffffff
+object 0: text: sddwddddssssddwa............
+
+maze_final: test000219.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000219.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647764ffffffffffffffffffffffff
+object 0: text: sddwddddssssddwd............
+
+maze_final: test000220.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000220.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647773ffffffffffffffffffffffff
+object 0: text: sddwddddssssddws............
+
+maze_final: test000221.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000221.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736100ffffffffffffffffffffffff
+object 0: text: sddwddddsddsssa.............
+
+maze_final: test000222.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000222.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736173ffffffffffffffffffffffff
+object 0: text: sddwddddsddsssas............
+
+maze_final: test000223.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000223.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaw\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736177ffffffffffffffffffffffff
+object 0: text: sddwddddsddsssaw............
+
+maze_final: test000224.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000224.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736164ffffffffffffffffffffffff
+object 0: text: sddwddddsddsssad............
+
+maze_final: test000225.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000225.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssss\x00\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737300ffffffffff
+object 0: text: ssssddddwwaawwddddssss......
+
+maze_final: test000226.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000226.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsssss\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737373ffffffffff
+object 0: text: ssssddddwwaawwddddsssss.....
+
+maze_final: test000227.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000227.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssw\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737377ffffffffff
+object 0: text: ssssddddwwaawwddddssssw.....
+
+maze_final: test000228.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000228.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssa\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737361ffffffffff
+object 0: text: ssssddddwwaawwddddssssa.....
+
+maze_final: test000229.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000229.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddds\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364646473ffffffffff
+object 0: text: ssssddddwwaawwddddsddds.....
+
+maze_final: test000230.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000230.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdds\x00\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647300ffffffffff
+object 0: text: ssssddddwwaawwddddsdds......
+
+maze_final: test000231.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000231.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddd\x00\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364646400ffffffffff
+object 0: text: ssssddddwwaawwddddsddd......
+
+maze_final: test000232.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000232.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdddd\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364646464ffffffffff
+object 0: text: ssssddddwwaawwddddsdddd.....
+
+maze_final: test000233.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000233.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsdddw\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364646477ffffffffff
+object 0: text: ssssddddwwaawwddddsdddw.....
+
+maze_final: test000234.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000234.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddda\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364646461ffffffffff
+object 0: text: ssssddddwwaawwddddsddda.....
+
+maze_final: test000235.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000235.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsa\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647361ffffffffff
+object 0: text: ssssddddwwaawwddddsddsa.....
+
+maze_final: test000236.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000236.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsw\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647377ffffffffff
+object 0: text: ssssddddwwaawwddddsddsw.....
+
+maze_final: test000237.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000237.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736464777700ffffffffffffffffffffff
+object 0: text: sddwddddssssddww............
+
+maze_final: test000238.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000238.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736464777761ffffffffffffffffffffff
+object 0: text: sddwddddssssddwwa...........
+
+maze_final: test000239.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000239.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsd\xff\xff\xff\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647364ffffffffff
+object 0: text: ssssddddwwaawwddddsddsd.....
+
+maze_final: test000240.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000240.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736464777764ffffffffffffffffffffff
+object 0: text: sddwddddssssddwwd...........
+
+maze_final: test000241.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000241.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464737373736464777773ffffffffffffffffffffff
+object 0: text: sddwddddssssddwws...........
+
+maze_final: test000242.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000242.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737373616100ffffffffffffffffffffff
+object 0: text: sddwddddsddsssaa............
+
+maze_final: test000243.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000243.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaaa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737373616161ffffffffffffffffffffff
+object 0: text: sddwddddsddsssaaa...........
+
+maze_final: test000244.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000244.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaad\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737373616164ffffffffffffffffffffff
+object 0: text: sddwddddsddsssaad...........
+
+maze_final: test000245.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000245.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaas\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x7364647764646464736464737373616173ffffffffffffffffffffff
+object 0: text: sddwddddsddsssaas...........
+
+maze_final: test000246.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000246.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssd\x00\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736400ffffffff
+object 0: text: ssssddddwwaawwddddssssd.....
+
+maze_final: test000247.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000247.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssdw\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736477ffffffff
+object 0: text: ssssddddwwaawwddddssssdw....
+
+maze_final: test000248.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000248.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssda\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736461ffffffff
+object 0: text: ssssddddwwaawwddddssssda....
+
+maze_final: test000249.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000249.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssds\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736473ffffffff
+object 0: text: ssssddddwwaawwddddssssds....
+
+maze_final: test000250.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000250.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646477777700ffffffffffffffffffff
+object 0: text: sddwddddssssddwww...........
+
+maze_final: test000251.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000251.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddss\x00\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737300ffffffff
+object 0: text: ssssddddwwaawwddddsddss.....
+
+maze_final: test000252.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000252.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddssa\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737361ffffffff
+object 0: text: ssssddddwwaawwddddsddssa....
+
+maze_final: test000253.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000253.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646477777773ffffffffffffffffffff
+object 0: text: sddwddddssssddwwws..........
+
+maze_final: test000254.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000254.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddssw\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737377ffffffff
+object 0: text: ssssddddwwaawwddddsddssw....
+
+maze_final: test000255.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000255.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddssd\xff\xff\xff\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737364ffffffff
+object 0: text: ssssddddwwaawwddddsddssd....
+
+maze_final: test000256.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000256.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwww\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473737373646477777777ffffffffffffffffffff
+object 0: text: sddwddddssssddwwww..........
+
+maze_final: test000257.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000257.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaaw\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737361617700ffffffffffffffffffff
+object 0: text: sddwddddsddsssaaw...........
+
+maze_final: test000258.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000258.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssdda\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737373646461ffffff
+object 0: text: ssssddddwwaawwddddssssdda...
+
+maze_final: test000259.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000259.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssdd\x00\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737373646400ffffff
+object 0: text: ssssddddwwaawwddddssssdd....
+
+maze_final: test000260.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000260.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaaws\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737361617773ffffffffffffffffffff
+object 0: text: sddwddddsddsssaaws..........
+
+maze_final: test000261.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000261.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawa\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737361617761ffffffffffffffffffff
+object 0: text: sddwddddsddsssaawa..........
+
+maze_final: test000262.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000262.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssdds\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737373646473ffffff
+object 0: text: ssssddddwwaawwddddssssdds...
+
+maze_final: test000263.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000263.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawd\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x736464776464646473646473737361617764ffffffffffffffffffff
+object 0: text: sddwddddsddsssaawd..........
+
+maze_final: test000264.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000264.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddd\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473737373646464ffffff
+object 0: text: ssssddddwwaawwddddssssddd...
+
+maze_final: test000265.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000265.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsss\x00\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646473737300ffffff
+object 0: text: ssssddddwwaawwddddsddsss....
+
+maze_final: test000266.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000266.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddssss\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646473737373ffffff
+object 0: text: ssssddddwwaawwddddsddssss...
+
+maze_final: test000267.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000267.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssd\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646473737364ffffff
+object 0: text: ssssddddwwaawwddddsddsssd...
+
+maze_final: test000268.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000268.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssw\xff\xff\xff'
+object 0: hex : 0x73737373646464647777616177776464646473646473737377ffffff
+object 0: text: ssssddddwwaawwddddsddsssw...
+
+maze_final: test000269.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000269.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddw\x00\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737364647700ffff
+object 0: text: ssssddddwwaawwddddssssddw...
+
+maze_final: test000270.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000270.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaaww\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736161777700ffffffffffffffffff
+object 0: text: sddwddddsddsssaaww..........
+
+maze_final: test000271.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000271.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwd\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737364647764ffff
+object 0: text: ssssddddwwaawwddddssssddwd..
+
+maze_final: test000272.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000272.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwa\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737364647761ffff
+object 0: text: ssssddddwwaawwddddssssddwa..
+
+maze_final: test000273.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000273.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddws\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647373737364647773ffff
+object 0: text: ssssddddwwaawwddddssssddws..
+
+maze_final: test000274.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000274.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawwd\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736161777764ffffffffffffffffff
+object 0: text: sddwddddsddsssaawwd.........
+
+maze_final: test000275.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000275.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawwa\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736161777761ffffffffffffffffff
+object 0: text: sddwddddsddsssaawwa.........
+
+maze_final: test000276.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000276.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawws\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736161777773ffffffffffffffffff
+object 0: text: sddwddddsddsssaawws.........
+
+maze_final: test000277.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000277.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddsddsssaawww\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647364647373736161777777ffffffffffffffffff
+object 0: text: sddwddddsddsssaawww.........
+
+maze_final: test000278.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000278.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwd\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776400ffffffffffffffffff
+object 0: text: sddwddddssssddwwwd..........
+
+maze_final: test000279.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000279.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwa\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776100ffffffffffffffffff
+object 0: text: sddwddddssssddwwwa..........
+
+maze_final: test000280.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000280.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwas\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776173ffffffffffffffffff
+object 0: text: sddwddddssssddwwwas.........
+
+maze_final: test000281.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000281.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwdw\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776477ffffffffffffffffff
+object 0: text: sddwddddssssddwwwdw.........
+
+maze_final: test000282.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000282.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwad\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776164ffffffffffffffffff
+object 0: text: sddwddddssssddwwwad.........
+
+maze_final: test000283.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000283.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwaa\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776161ffffffffffffffffff
+object 0: text: sddwddddssssddwwwaa.........
+
+maze_final: test000284.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000284.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwdd\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776464ffffffffffffffffff
+object 0: text: sddwddddssssddwwwdd.........
+
+maze_final: test000285.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000285.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwaw\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776177ffffffffffffffffff
+object 0: text: sddwddddssssddwwwaw.........
+
+maze_final: test000286.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000286.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwds\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776473ffffffffffffffffff
+object 0: text: sddwddddssssddwwwds.........
+
+maze_final: test000287.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000287.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'sddwddddssssddwwwda\xff\xff\xff\xff\xff\xff\xff\xff\xff'
+object 0: hex : 0x73646477646464647373737364647777776461ffffffffffffffffff
+object 0: text: sddwddddssssddwwwda.........
+
+maze_final: test000288.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000288.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssa\x00\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647373736100ffff
+object 0: text: ssssddddwwaawwddddsddsssa...
+
+maze_final: test000289.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000289.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssad\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647373736164ffff
+object 0: text: ssssddddwwaawwddddsddsssad..
+
+maze_final: test000290.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000290.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssas\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647373736173ffff
+object 0: text: ssssddddwwaawwddddsddsssas..
+
+maze_final: test000291.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000291.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaw\xff\xff'
+object 0: hex : 0x7373737364646464777761617777646464647364647373736177ffff
+object 0: text: ssssddddwwaawwddddsddsssaw..
+
+maze_final: test000292.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000292.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwd\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736464777764ff
+object 0: text: ssssddddwwaawwddddssssddwwd.
+
+maze_final: test000293.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000293.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwa\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736464777761ff
+object 0: text: ssssddddwwaawwddddssssddwwa.
+
+maze_final: test000294.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000294.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddww\x00\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736464777700ff
+object 0: text: ssssddddwwaawwddddssssddww..
+
+maze_final: test000295.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000295.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwws\xff'
+object 0: hex : 0x737373736464646477776161777764646464737373736464777773ff
+object 0: text: ssssddddwwaawwddddssssddwws.
+
+maze_final: test000296.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000296.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaa\x00\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737373616100ff
+object 0: text: ssssddddwwaawwddddsddsssaa..
+
+maze_final: test000297.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000297.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaas\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737373616173ff
+object 0: text: ssssddddwwaawwddddsddsssaas.
+
+maze_final: test000298.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000298.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaaa\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737373616161ff
+object 0: text: ssssddddwwaawwddddsddsssaaa.
+
+maze_final: test000299.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000299.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaad\xff'
+object 0: hex : 0x737373736464646477776161777764646464736464737373616164ff
+object 0: text: ssssddddwwaawwddddsddsssaad.
+
+maze_final: test000300.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000300.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwww'
+object 0: hex : 0x73737373646464647777616177776464646473737373646477777777
+object 0: text: ssssddddwwaawwddddssssddwwww
+
+maze_final: test000301.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000301.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwww\x00'
+object 0: hex : 0x73737373646464647777616177776464646473737373646477777700
+object 0: text: ssssddddwwaawwddddssssddwww.
+
+maze_final: test000302.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000302.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwws'
+object 0: hex : 0x73737373646464647777616177776464646473737373646477777773
+object 0: text: ssssddddwwaawwddddssssddwwws
+
+maze_final: test000303.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000303.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaawd'
+object 0: hex : 0x73737373646464647777616177776464646473646473737361617764
+object 0: text: ssssddddwwaawwddddsddsssaawd
+
+maze_final: test000304.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000304.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaawa'
+object 0: hex : 0x73737373646464647777616177776464646473646473737361617761
+object 0: text: ssssddddwwaawwddddsddsssaawa
+
+maze_final: test000305.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000305.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaaw\x00'
+object 0: hex : 0x73737373646464647777616177776464646473646473737361617700
+object 0: text: ssssddddwwaawwddddsddsssaaw.
+
+maze_final: test000306.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000306.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaaws'
+object 0: hex : 0x73737373646464647777616177776464646473646473737361617773
+object 0: text: ssssddddwwaawwddddsddsssaaws
+
+maze_final: test000307.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000307.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwwa'
+object 0: hex : 0x73737373646464647777616177776464646473737373646477777761
+object 0: text: ssssddddwwaawwddddssssddwwwa
+
+maze_final: test000308.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000308.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddssssddwwwd'
+object 0: hex : 0x73737373646464647777616177776464646473737373646477777764
+object 0: text: ssssddddwwaawwddddssssddwwwd
+
+maze_final: test000309.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_maze_final/test000309.ktest'
+args       : ['maze_symbolic.bc']
+num objects: 1
+object 0: name: 'program'
+object 0: size: 28
+object 0: data: b'ssssddddwwaawwddddsddsssaaww'
+object 0: hex : 0x73737373646464647777616177776464646473646473737361617777
+object 0: text: ssssddddwwaawwddddsddsssaaww
+

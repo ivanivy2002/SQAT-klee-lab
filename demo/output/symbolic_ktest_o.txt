@@ -1,0 +1,184 @@
+symbolic: test000001.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000001.ktest'
+args       : ['symbolic.bc']
+num objects: 3
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x00\x00\x00\x00'
+object 1: hex : 0x00000000
+object 1: int : 0
+object 1: uint: 0
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+
+symbolic: test000002.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000002.ktest'
+args       : ['symbolic.bc']
+num objects: 3
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x05\x00\x00\x00'
+object 1: hex : 0x05000000
+object 1: int : 5
+object 1: uint: 5
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+
+symbolic: test000003.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000003.ktest'
+args       : ['symbolic.bc']
+num objects: 4
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x03\x00\x00\x00'
+object 1: hex : 0x03000000
+object 1: int : 3
+object 1: uint: 3
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+object 3: name: 'p'
+object 3: size: 8
+object 3: data: b'\x00\x00\x00\x00\x00\x00\x00\x00'
+object 3: hex : 0x0000000000000000
+object 3: int : 0
+object 3: uint: 0
+object 3: text: ........
+
+symbolic: test000004.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000004.ktest'
+args       : ['symbolic.bc']
+num objects: 4
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x03\x00\x00\x00'
+object 1: hex : 0x03000000
+object 1: int : 3
+object 1: uint: 3
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+object 3: name: 'p'
+object 3: size: 8
+object 3: data: b'\x01\x01\x01\x01\x01\x01\x01\x01'
+object 3: hex : 0x0101010101010101
+object 3: int : 72340172838076673
+object 3: uint: 72340172838076673
+object 3: text: ........
+
+symbolic: test000005.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000005.ktest'
+args       : ['symbolic.bc']
+num objects: 4
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x03\x00\x00\x00'
+object 1: hex : 0x03000000
+object 1: int : 3
+object 1: uint: 3
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+object 3: name: 'p'
+object 3: size: 8
+object 3: data: b'\xe0V\xa8=\xa2\x7f\x00\x00'
+object 3: hex : 0xe056a83da27f0000
+object 3: int : 140334795871968
+object 3: uint: 140334795871968
+object 3: text: .V.=....
+
+symbolic: test000006.ktest
+ktest file : '/home/klee/demo_ivan/bc/klee_symbolic/test000006.ktest'
+args       : ['symbolic.bc']
+num objects: 4
+object 0: name: 'n'
+object 0: size: 4
+object 0: data: b'\x00\x00\x00\x00'
+object 0: hex : 0x00000000
+object 0: int : 0
+object 0: uint: 0
+object 0: text: ....
+object 1: name: 'choice'
+object 1: size: 4
+object 1: data: b'\x03\x00\x00\x00'
+object 1: hex : 0x03000000
+object 1: int : 3
+object 1: uint: 3
+object 1: text: ....
+object 2: name: 'arr_len'
+object 2: size: 4
+object 2: data: b'\x00\x00\x00\x00'
+object 2: hex : 0x00000000
+object 2: int : 0
+object 2: uint: 0
+object 2: text: ....
+object 3: name: 'p'
+object 3: size: 8
+object 3: data: b'\x00\xe9\xf1\x0eDV\x00\x00'
+object 3: hex : 0x00e9f10e44560000
+object 3: int : 94850308499712
+object 3: uint: 94850308499712
+object 3: text: ....DV..
+
